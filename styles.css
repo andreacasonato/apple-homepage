@@ -224,7 +224,7 @@
 	margin: 0.5rem;
 }
 
-.display__apple-watch h3 {
+.display__title-apple-watch {
 	margin-top: 2rem;
 	color: #000;
 	padding: 1rem;
@@ -249,7 +249,7 @@
 	margin: 0.5rem;
 }
 
-.display__apple-ipad h3 {
+.display__title-apple-ipad {
 	margin-top: 2rem;
 	color: #000;
 	padding: 1rem;
